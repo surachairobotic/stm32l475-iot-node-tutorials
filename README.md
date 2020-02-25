@@ -1,1 +1,1 @@
-# stm32l475-iot-node-tutorials
+# stm32l475-iot-node
